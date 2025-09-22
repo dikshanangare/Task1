@@ -75,7 +75,7 @@ Steps:
 
 3)  Create a ER diagram for E-commerce database.
 
-![ER diagram for E-commerce database](ErDiagram.png)
+![ER diagram for E-commerce database](CustomErDiagram.png)
 
 4)  Summery
 
